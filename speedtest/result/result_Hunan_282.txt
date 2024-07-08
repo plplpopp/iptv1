@@ -1,9 +1,7 @@
-1003k  175.10.75.211:4022
-1001k  www.do.dsp.mp.mi4.xyz:8888
-998k  hgiue6pb.mi4.xyz:8888
-993k  pxhobwww.k.mi4.xyz:8888
-989k  www.qhdrive.mi4.xyz:8888
-988k  dak3yy7y.mi4.xyz:8888
-984k  hn-valve.cn:8888
-981k  222.241.146.57:8888
-362k  w.yao87.com:4022
+986k  o.dsp.mp.mi4.xyz:8888
+967k  dak3yy7y.mi4.xyz:8888
+956k  175.9.163.177:8989
+935k  pxhobwww.k.mi4.xyz:8888
+929k  118.255.76.170:8888
+897k  qhdrive.mi4.xyz:8888
+701k  118.251.61.155:8888
